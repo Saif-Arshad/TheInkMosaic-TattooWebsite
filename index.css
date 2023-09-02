@@ -64,7 +64,7 @@ background:black;
     object-fit: cover;
     width: 17rem;
 }
-/* #main header ul{
+#main header ul{
     list-style-type: none;
     color: white;
     display: flex;
@@ -93,7 +93,7 @@ background:black;
 #main header ul li:hover{
     color: #FFD700;
     cursor: pointer;
-} */
+}
 #content_main{
     padding: 22vh 6vw ;
     /* background: #000; */
